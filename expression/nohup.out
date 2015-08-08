@@ -1,0 +1,33 @@
+Fontconfig warning: "/etc/fonts/conf.d/56-user.conf", line 14: reading configurations from ~/.fonts.conf is deprecated. please move it to /home/junn/.config/fontconfig/fonts.conf manually
+Playing WAVE '/usr/share/stardict/sounds/buttonactive.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+Playing WAVE '/usr/share/stardict/sounds/buttonactive.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+Playing WAVE '/usr/share/stardict/sounds/buttonactive.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+Playing WAVE '/usr/share/stardict/sounds/buttonactive.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.rear
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.center_lfe
+ALSA lib pcm.c:2239:(snd_pcm_open_noupdate) Unknown PCM cards.pcm.side
+ALSA lib pcm_dmix.c:961:(snd_pcm_dmix_open) The dmix plugin supports only playback stream
+Cannot connect to server socket err = 没有那个文件或目录
+Cannot connect to server request channel
+jack server is not running or cannot be started
+Playing WAVE '/usr/share/stardict/sounds/buttonactive.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+Playing WAVE '/usr/share/stardict/sounds/buttonactive.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+Playing WAVE '/usr/share/stardict/sounds/buttonactive.wav' : Unsigned 8 bit, Rate 22050 Hz, Mono
+stardict: Fatal IO error 11 (资源暂时不可用) on X server :0.
+XDXF数据解析插件加载成功。
+HTML数据解析插件加载成功。
+拼写检查插件加载成功。
+Espeak插件加载成功。
+WordNet词典渲染插件加载成功。
+Dict.cn网络词典插件加载成功。
+Wiki数据解析插件加载成功。
+WordNet数据解析插件加载成功。
+QQWry插件加载成功。
+PowerWord数据解析插件加载成功。
+Man虚拟词典插件加载成功。
+bookname: 计算机词汇, wordcount 6131
+bookname: 牛津高阶英汉双解, wordcount 39433
+bookname: StarDict dictionary, wordcount 9
+bookname: 英汉汉英专业词典, wordcount 571998
+[warning] Binding '<Ctrl><Alt>x' failed! Already assigned.
+
