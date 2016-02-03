@@ -24,6 +24,5 @@ void dijkstra(int s)
 			{
 				d[i] = min(a[i],d[v]+cost[v][i]);
 			}
-	
 	}
 }
